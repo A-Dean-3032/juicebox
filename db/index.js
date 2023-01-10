@@ -29,5 +29,5 @@ async function createUser({username, password}) {
 module.exports = {
   client, 
   getAllUsers,
-  createUser
+  createUser,
 }
